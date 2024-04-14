@@ -1,0 +1,2 @@
+# .github
+Tec.sh
